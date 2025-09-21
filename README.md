@@ -1,4 +1,5 @@
 Youtube - https://youtu.be/2onOVwm3M30
+website - https://youtu.be/2onOVwm3M30
 
 Recruiters currently spend hours manually reviewing resumes against job descriptions (JDs). This leads to delays, inconsistent evaluations, and high workloads.
 
